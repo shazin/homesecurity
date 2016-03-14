@@ -6,7 +6,7 @@ For more information visit <a href="http://shazsterblog.blogspot.com/2016/03/hom
 Schematics
 ----------
 
-<img src="HomeSecurity_Schematics.png"/>
+<img src="HomeSecurity_schematics.png"/>
 
 Setup
 -----
